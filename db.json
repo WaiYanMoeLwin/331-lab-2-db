@@ -32,6 +32,18 @@
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Carey Wales"
-    }
+    },
+    {
+      "id": 6734205,
+      "category": "environment",
+      "title": "Tree Planting Drive",
+      "description": "Come plant trees and make our city greener.",
+      "location": "Oakridge Park",
+      "date": "October 15, 2022",
+      "time": "09:30",
+      "petsAllowed": true,
+      "organizer": "Forrest Green"
+    },
+
   ]
 }
