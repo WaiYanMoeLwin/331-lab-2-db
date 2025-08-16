@@ -7,5 +7,18 @@
   },
   "dependencies": {
     "json-server": "^0.17.0"
-  }
+  },
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WaiYanMoeLwin/331-lab-2-db.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/WaiYanMoeLwin/331-lab-2-db/issues"
+  },
+  "homepage": "https://github.com/WaiYanMoeLwin/331-lab-2-db#readme"
 }
